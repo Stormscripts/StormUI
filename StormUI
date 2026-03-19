@@ -1,5 +1,5 @@
---   Storm Hub UI Library v1.0
---   By Storm Scripts
+-- Storm Hub UI Library v1.0
+-- By Storm Scripts
 
 local StormLib = {}
 StormLib.__index = StormLib
