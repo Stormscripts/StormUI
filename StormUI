@@ -1,8 +1,5 @@
--- ================================================
---   Storm Hub UI Library  |  v1.0
---   Converted from Storm_Hub_UI (shadcn/Next.js)
---   by Vortex / Storm Scripts
--- ================================================
+--   Storm Hub UI Library v1.0
+--   By Storm Scripts
 
 local StormLib = {}
 StormLib.__index = StormLib
